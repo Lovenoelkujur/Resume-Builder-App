@@ -199,11 +199,24 @@ Backend-dependencies : {
 
 ---
 
+## 🚀 Live Link
+
+- Hosted Link 👇🏼
+
+    [Click Me](https://resume-builder-app-i9y7.onrender.com)
+
+
+- Github Repo 👇🏼
+
+    [Click Me](https://github.com/Lovenoelkujur/Resume-Builder-App.git)
+
+---
+
 ## 📬 Contact
 
 Developer: `Noel Kujur`
 
-GitHub: `https://github.com/Lovenoelkujur?tab=repositories`
+GitHub: `https://github.com/Lovenoelkujur`
 
 LinkedIn: `https://www.linkedin.com/in/noel-kujur-845343118/`
 
